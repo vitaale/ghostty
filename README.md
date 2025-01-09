@@ -8,8 +8,6 @@
 <h6 align="center">/ˌvaɪˈtæl/</h6>
 
 <h6 align="center">
-  <a href="https://github.com/vitaale/ghostty#preview">Preview</a>
-  ·
   <a href="https://github.com/vitaale/ghostty#installation">Installation</a>
 </h6>
 
@@ -32,21 +30,8 @@
 &nbsp;
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
+  <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/ghostty-preview.png" alt="vitale preview"/>
 </p>
-
-&nbsp;
-
-## Preview
-
-<details>
-  <summary>Ghostty</summary>
-    <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
-</details>
-<details>
-  <summary>More</summary>
-    <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
-</details>
 
 &nbsp;
 
