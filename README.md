@@ -8,9 +8,9 @@
 <h6 align="center">/ˌvaɪˈtæl/</h6>
 
 <h6 align="center">
-  <a href="https://github.com/vitaale/ghostty#-preview">Preview</a>
+  <a href="https://github.com/vitaale/ghostty#preview">Preview</a>
   ·
-  <a href="https://github.com/vitaale/ghostty#-installation">Installation</a>
+  <a href="https://github.com/vitaale/ghostty#installation">Installation</a>
 </h6>
 
 <p align="center">
