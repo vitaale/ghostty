@@ -1,0 +1,25 @@
+# Theme: Vitaale for Ghostty
+# Author: Marbin Karaus
+
+palette = 0=#464646
+palette = 1=#e9897c
+palette = 2=#b6377d
+palette = 3=#ecebbe
+palette = 4=#a9cdeb
+palette = 5=#75507b
+palette = 6=#c9caec
+palette = 7=#f2f2f2
+palette = 8=#6c6c6c
+palette = 9=#f99286
+palette = 10=#c3f786
+palette = 11=#fcfbcc
+palette = 12=#b6defb
+palette = 13=#ad7fa8
+palette = 14=#d7d9fc
+palette = 15=#e2e2e2
+background = #24202c
+foreground = #f4cde9
+cursor-color = #f4cde9
+cursor-text = #24202c
+selection-background = #f4cde9
+selection-foreground = #24202c
