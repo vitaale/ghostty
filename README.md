@@ -40,9 +40,12 @@
 ## Preview
 
 <details>
-  <summary>
+  <summary>Ghostty</summary>
     <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
-  </summary>
+</details>
+<details>
+  <summary>More</summary>
+    <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
 </details>
 
 &nbsp;
