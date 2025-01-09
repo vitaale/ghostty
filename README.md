@@ -8,11 +8,9 @@
 <h6 align="center">/ˌvaɪˈtæl/</h6>
 
 <h6 align="center">
-  <a href="https://github.com/vitaale/vitaale#-palette">Palette</a>
+  <a href="https://github.com/vitaale/ghostty#-preview">Preview</a>
   ·
-  <a href="https://github.com/vitaale/vitaale#-ports-and-more">Ports</a>
-  ·
-  <a href="https://github.com/vitaale/vitaale#-showcase">Showcase</a>
+  <a href="https://github.com/vitaale/ghostty#-installation">Installation</a>
 </h6>
 
 <p align="center">
@@ -36,3 +34,20 @@
 <p align="center">
   <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
 </p>
+
+&nbsp;
+
+## Preview
+
+<details>
+  <summary>
+    <img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/preview.png" alt="vitale preview"/>
+  </summary>
+</details>
+
+&nbsp;
+
+## Installation
+
+1. Copy the file [vitaale](https://github.com/vitaale/ghostty/blob/main/vitaale) into your [ghostty/themes/](https://ghostty.org/docs/config/reference#theme) directory.
+2. Reload or restart Ghostty.
