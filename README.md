@@ -1,8 +1,8 @@
 <h3 align="center">
 	<img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/logos/logo.png" width="100" alt="Logo"/><br/>
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
-	Vitaale
-	<img src="https://raw.githubusercontent.com/catppuccin/catppuccin/main/assets/misc/transparent.png" height="30" width="0px"/>
+	<img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/transparent.png" height="30" width="0px"/>
+	Ghostty
+	<img src="https://raw.githubusercontent.com/vitaale/vitaale/refs/heads/main/assets/misc/transparent.png" height="30" width="0px"/>
 </h3>
 
 <h6 align="center">/ˌvaɪˈtæl/</h6>
